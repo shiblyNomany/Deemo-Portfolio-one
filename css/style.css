@@ -16,7 +16,7 @@ background-color: black;
 /* NAV-MENU  */
 .nav-menu{ 
    min-height:100vh;
-   background-image: linear-gradient(rgba(0, 0, 0,0.4),rgba(0, 0, 0,0.4)),url(/picture/young-bearded-man-with-striped-shirt.jpg);
+   background-image: linear-gradient(rgba(0, 0, 0,0.4),rgba(0, 0, 0,0.4)),url(../picture/young-bearded-man-with-striped-shirt.jpg);
     background-image: ;
     background-size: cover;
     background-position: center;

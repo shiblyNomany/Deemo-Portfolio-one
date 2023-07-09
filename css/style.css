@@ -726,7 +726,7 @@ font-weight: 100;
 .blog-item{
     display: flex;
     justify-content: space-between;
-    height: auto;
+    height: 537px;
     width: 100%;
 }
 
@@ -822,8 +822,8 @@ font-weight: 100;
     font-size: x-large;
     color: white;
     font-size: 35px;
-    margin-bottom: 85px;
-    margin-top: 65px;
+    margin-bottom: 55px;
+    margin-top: 165px;
 }
 
 .get-in-touch h1 span{
